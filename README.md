@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido com base em um estudo de caso do **DataCamp**, focado em analisar o impacto da vida acadêmica na saúde mental de estudantes de uma universidade no Japão.
 
 ### 🎯 Objetivo do Projeto
-O objetivo principal é investigar se a duração da estadia (`stay`) de estudantes internacionais influencia seus níveis de depressão, ansiedade e suporte social. Como estou em transição para a área de **Dados**, utilizei este projeto para aplicar técnicas avançadas de manipulação de dados e extração de insights.
+O objetivo principal é investigar se a duração da estadia (`stay`) de estudantes internacionais influencia seus níveis de depressão, ansiedade e suporte social. Utilizei este projeto para praticar agregações, filtros e agrupamentos em SQL.
 
 ### 🛠️ Tecnologias e Conceitos Aplicados
 * **Linguagem:** SQL (PostgreSQL)
